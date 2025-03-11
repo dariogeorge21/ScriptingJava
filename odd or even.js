@@ -5,3 +5,6 @@ if (num%2==0){
 else{
     console.log("Odd");
 }
+//ternary
+
+console.log(num%2==0?"Even":"Odd");
