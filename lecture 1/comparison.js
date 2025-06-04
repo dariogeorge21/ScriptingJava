@@ -6,6 +6,7 @@ console.log(null==0) // here it is not a relational operator therefore null is n
 
 console.log(undefined==0)// false
 
-console.log(undefined>=0)// false
+console.log(undefined>=0)// false !! undefined is always false
 
 console.log(undefined<0)//false
+
