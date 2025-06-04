@@ -10,5 +10,5 @@ let userOne={
 }
 let userTwo=userOne;
 
-userTwo.email="dario@google.com";
+userTwo.email="dario@google.com"
 console.log(userOne.email);
