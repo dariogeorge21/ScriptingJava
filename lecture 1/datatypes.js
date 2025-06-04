@@ -6,7 +6,7 @@ let name = "Dario"
 let age = 18;
 let loggedIn = true;
 
-// Datatypes
+//Primitive Datatypes
 /*
 number => limit 2^53
 bigint => for big number
@@ -15,6 +15,9 @@ boolean true/false
 null - standalone value
 undefined 
 symbol - unique
+
+
+objects
 */
 
 console.log(typeof null) //object
