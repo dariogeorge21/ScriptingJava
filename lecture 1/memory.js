@@ -13,3 +13,11 @@ let userTwo=userOne;
 userTwo.email="dario@google.com"
 console.log(userOne.email);//dario@google.com
 
+// above is an example of heap memory
+
+let month="January";
+let monthTwo=month;
+
+month="March"
+
+console.log(month);
