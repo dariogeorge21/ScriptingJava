@@ -16,9 +16,25 @@ null - standalone value
 undefined 
 symbol - unique
 
-
+Non primitive datatypes
+Arrays
+Functions
 objects
 */
+
+let greet = function(){
+    console.log("Hello World!!");
+}//function
+
+let fruits = ["apple","banana","mango"];//array
+
+let aboutMe = {
+    name:"Dario George",
+    age:18,
+    course:"BTech",
+    title: "Developer"
+}//object
+
 
 console.log(typeof null) //object
 console.log(typeof undefined) //undefined 
