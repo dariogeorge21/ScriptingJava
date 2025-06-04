@@ -18,6 +18,8 @@ console.log(userOne.email);//dario@google.com
 let month="January";
 let monthTwo=month;
 
-month="March"
+monthTwo="March"
 
 console.log(month);
+
+//above is an example of stack memory. Only a copy is sent to the variable.
