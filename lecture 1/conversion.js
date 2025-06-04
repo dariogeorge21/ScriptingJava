@@ -13,7 +13,7 @@ console.log(val);
 
 let bool=true;
 let value=Boolean(bool);
-console.log(value);//1 if false then 0
+console.log(value); // 1 if false then 0
 
 //If "" then false
 // if "dario" then true
