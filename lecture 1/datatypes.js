@@ -1,6 +1,7 @@
 "use strict";//treat all Js code as newer version
 
-alert("Helllo!!");//does not work in nodejs only in browser
+// alert("Helllo!!");//does not work in nodejs only in browser
+
 
 let name = "Dario"
 let age = 18;
@@ -40,4 +41,6 @@ console.log(typeof null) //object
 console.log(typeof undefined) //undefined 
 
 
-console.log(typeof greet)
+console.log(typeof greet)//function object
+console.log(typeof fruits)//object
+console.log(typeof aboutMe)//object
