@@ -10,3 +10,4 @@ console.log(undefined>=0)// false !! undefined is always false
 
 console.log(undefined<0)//false
 
+//strict check ===
