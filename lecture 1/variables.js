@@ -5,5 +5,9 @@ city = "New Delhi";
 
 //prefer not to use var 
 
+/*
+I am a multi line comment
+*/
+
 console.table([number,account,password,city]);
 console.log(number);
