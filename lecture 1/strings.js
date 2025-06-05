@@ -22,8 +22,9 @@ console.log(anotherString);
 let email = "    user@google.com   ";
 console.log(email.trim());// removes the leading and trailing whitespaces and line terminators
 
-let url = "https://dario%20george.com";
-console.log(url.replace('%20','-'));// to replace
+let url = "https://dario%20george.vercel.app";
+console.log(url.replace('%20',''));// to replace
 
+console.log(url.includes('dario'));// bool value checks weather in or not in;
 
-
+console.log(url.split('.'));// to split into arrays
