@@ -10,4 +10,6 @@ let newNum = 323.935
 
 console.log(newNum.toPrecision(5))// precises(round off) number to that many digits (if >5 then (n-1) else n-1 remains unchanged)
 
+let largeNum = 10000000;
 
+console.log(largeNum.toLocaleString('en-IN'))// adds comma to numbers for better readability
