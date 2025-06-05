@@ -16,5 +16,5 @@ console.log(name.indexOf('a'))// index value of input
 let subString = name.substring(0,3)// negative index does not work
 console.log(subString);
 
-let anotherString = name.slice(-4,4);
+let anotherString = name.slice(-4,4);// here negative index can be used
 console.log(anotherString);
