@@ -18,3 +18,6 @@ console.log(subString);
 
 let anotherString = name.slice(-4,4);// here negative index can be used
 console.log(anotherString);
+
+let email = "    user@google.com   ";
+console.log(email.trim());// removes the leading and trailing whitespaces
