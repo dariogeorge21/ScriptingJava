@@ -13,5 +13,8 @@ console.log("Lowercase: ",name.toLowerCase());// copy converts to lowercase
 console.log(name.charAt(0));// character at index =>0
 console.log(name.indexOf('a'))// index value of input
 
-let subString = name.substring(0,3)
+let subString = name.substring(0,3)// negative index does not work
 console.log(subString);
+
+let anotherString = name.slice(-4,4);
+console.log(anotherString);
