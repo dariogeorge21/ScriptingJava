@@ -10,5 +10,8 @@ console.log(`Hello my course is ${course} and my repository count is ${repoCount
 const name = new String ("Dario");
 console.log("Uppercase: ",name.toUpperCase());// copy converts to uppercase
 console.log("Lowercase: ",name.toLowerCase());// copy converts to lowercase
-console.log(name.charAt(0));//character at index =>0
-console.log(name.indexOf('a'))
+console.log(name.charAt(0));// character at index =>0
+console.log(name.indexOf('a'))// index value of input
+
+let subString = name.substring(0,3)
+console.log(subString);
