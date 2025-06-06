@@ -13,3 +13,5 @@ console.log(newNum.toPrecision(5))// precises(round off) number to that many dig
 let largeNum = 10000000;
 
 console.log(largeNum.toLocaleString('en-IN'))// adds comma to numbers for better readability
+
+console.log(Math.abs(-4))// Math is type of library which has multiple functions
