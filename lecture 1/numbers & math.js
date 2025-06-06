@@ -24,3 +24,7 @@ console.log(Math.round(4.4));// round function
 console.log(Math.ceil(3.2));// greatest upper value
 
 console.log(Math.floor(3.2))// least value
+
+console.log(Math.max(1,2,3,4,5))// Max value
+
+console.log(Math.min(1,2,3,4))// Min value
