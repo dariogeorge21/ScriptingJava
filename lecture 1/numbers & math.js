@@ -19,3 +19,8 @@ console.log(Math.abs(-4))// Math is type of library which has multiple functions
 
 console.log(Math.sqrt(9));// to find square root
 
+console.log(Math.round(4.4));// round function
+
+console.log(Math.ceil(3.2));// greatest upper value
+
+console 
