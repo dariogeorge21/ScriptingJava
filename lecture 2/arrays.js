@@ -4,3 +4,7 @@ const students = ["Rohit","Rohan","Roshan"];
 let numbers = new Array(1,2,3,4,5,6);
 //these are the methods of creating an array;
 
+console.log(numbers);
+
+numbers.push(12);// to add at end;
+console.log(numbers)
