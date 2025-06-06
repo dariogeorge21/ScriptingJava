@@ -18,3 +18,8 @@ numbers.shift()// removes from starting
 console.log(numbers);
 
 console.log(numbers.includes(2))// checks weather the numbers is there in array or not
+console.log(numbers.indexOf(2))// gives index of input value
+
+console.log(numbers.join())// converts to string
+
+
