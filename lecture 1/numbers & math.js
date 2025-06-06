@@ -17,4 +17,4 @@ console.log(largeNum.toLocaleString('en-IN'))// adds comma to numbers for better
 console.log(Math.abs(-4))// Math is type of library which has multiple functions
 //abs converts all numbers to positive
 
-console.log(Math.SQRT1_2(9));
+console.log(Math.sqrt(9));
