@@ -11,3 +11,10 @@ console.log(numbers)
 
 numbers.pop()//removes element from last
 
+numbers.unshift(21)// add at first;
+
+numbers.shift()// removes from starting
+
+console.log(numbers);
+
+console.log(numbers.includes(2))// checks weather the numbers is there in array or not
