@@ -8,3 +8,6 @@ console.log(numbers);
 
 numbers.push(12);// to add at end;
 console.log(numbers)
+
+numbers.pop()//removes element from last
+
