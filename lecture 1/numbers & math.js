@@ -15,3 +15,6 @@ let largeNum = 10000000;
 console.log(largeNum.toLocaleString('en-IN'))// adds comma to numbers for better readability
 
 console.log(Math.abs(-4))// Math is type of library which has multiple functions
+//abs converts all numbers to positive
+
+console.log(Math.SQRT1_2(9));
