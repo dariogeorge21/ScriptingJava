@@ -23,4 +23,4 @@ console.log(Math.round(4.4));// round function
 
 console.log(Math.ceil(3.2));// greatest upper value
 
-console 
+console.log(Math.floor(3.2))// least value
