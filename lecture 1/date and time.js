@@ -4,5 +4,5 @@ console.log(myDate.toString())
 console.log(myDate.toLocaleString())
 console.log(typeof myDate)
 
-let bday = new Date(2007,2,20)
-console.log(bday.toLocaleString())
+let bday = new Date(2007,2,20) // get a specific date
+console.log(bday.toLocaleString()) 
