@@ -30,3 +30,5 @@ console.log(Math.max(1,2,3,4,5))// Max value
 console.log(Math.min(1,2,3,4))// Min value
 
 console.log(Math.random())// returns a random value between 0 and 1
+
+console.log(Math.floor(Math.random()*10)+1)// return a random between 1 and 10;
