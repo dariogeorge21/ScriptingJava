@@ -29,3 +29,4 @@ console.log(Array1.slice(1,3))// slices and prints the array
 let Array2 = [5,43,33,22,11];
 console.log(Array2.splice(2,4))
 console.log(Array2)// here when splice is used, the difference is that the array is cut and displayed, the range is inlcuded and also it gets cuts from the original array
+
