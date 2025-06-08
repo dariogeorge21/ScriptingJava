@@ -31,4 +31,3 @@ console.log(Array2.splice(2,4))
 console.log(Array2)// here when splice is used, the difference is that the array is cut and displayed, the range is inlcuded and also it gets cuts from the original array
 
 // Arrys continued...
-
