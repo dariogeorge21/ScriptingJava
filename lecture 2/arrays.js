@@ -32,3 +32,9 @@ console.log(Array2)// here when splice is used, the difference is that the array
 
 // Arrys continued...
 
+let multidimensionalArray = [
+    [1,2,3],
+    [4,5,6],
+    [7,8,9]
+];
+console.log(multidimensionalArray)
