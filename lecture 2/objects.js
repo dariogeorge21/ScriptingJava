@@ -20,3 +20,8 @@ console.log(myData);
 
 myData.isStudent = false; // Modifying an existing property
 console.log(myData);
+
+// hasOwn Property
+
+console.log(myData.hasOwnProperty("name")); // true
+console.log(myData.hasOwnProperty("age")); // false 
