@@ -11,3 +11,12 @@ let myData = {
 };
 console.log(myData.name); // Accessing a property
 console.log(myData);
+
+delete myData.age; // Deleting a property
+console.log(myData);
+
+myData.age = 19; // Adding a new property
+console.log(myData);
+
+myData.isStudent = false; // Modifying an existing property
+console.log(myData);
