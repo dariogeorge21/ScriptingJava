@@ -25,3 +25,22 @@ console.log(myData);
 
 console.log(myData.hasOwnProperty("name")); // true
 console.log(myData.hasOwnProperty("age")); // false 
+
+// For storing large amounts of data, we can use an array of objects
+let students = [
+    {
+        name: "Alice",
+        age: 20,
+        isStudent: true
+    },
+    {
+        name: "Bob",
+        age: 22,
+        isStudent: true
+    },
+    {
+        name: "Charlie",
+        age: 21,
+        isStudent: false
+    }
+];
